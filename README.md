@@ -25,6 +25,7 @@ Currently focused on strengthening my expertise in:
 - Python
 - SQL
 - Java
+- Go
 
 **Security & Governance**
 
